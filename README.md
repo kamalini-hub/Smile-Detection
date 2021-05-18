@@ -1,2 +1,2 @@
 # Smile-Detection
-Emotion detectors are used in many industries, one being the media industry where it is important for the companies to determine the public reaction to their products. In this article, I have built a smile detector using OpenCV which takes in live feed from webcam.
+Emotion detectors are used in many industries, one being the media industry where it is important for the companies to determine the public reaction to their products.Smile detection is a special task in facial expression analysis with various potential applications such as photo selection, user experience analysis, smiling payment and patient monitoring.I have built a smile detector using OpenCV which takes in live feed from webcam.
